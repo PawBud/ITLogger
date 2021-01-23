@@ -12,3 +12,5 @@ ITLogger is an application for any particular department to keep track of its em
 3. run `npm start` to start a development server of the application, or run `npm run build` to create a production build.
 
 ## Screenshots
+![New Technicians](images/New_Technician.png)
+![System Log](images/System_Log.png)
